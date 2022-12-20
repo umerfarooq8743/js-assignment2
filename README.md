@@ -1,1 +1,1 @@
-# assignment-6
+# js-assignment2
